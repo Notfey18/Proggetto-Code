@@ -1,6 +1,0 @@
-# Parole chiave
-Git: Git è un sistema di controllo di versione distribuito utilizzato per gestire progetti software e tracciare le modifiche apportate ai file nel corso del tempo. Consente ai team di collaborare, tenere traccia delle modifiche, coordinare il lavoro e gestire il codice sorgente in modo efficiente. Git consente agli sviluppatori di lavorare in modo collaborativo su progetti di qualsiasi dimensione, mantenendo un registro delle modifiche e consentendo di tornare a versioni precedenti del codice se necessario.
-
-Markdown: Markdown è un linguaggio di formattazione leggero utilizzato per scrivere testo con formattazione semplice, ma strutturata. È comunemente utilizzato per scrivere documentazione, note, pagine web e file di testo formattati su piattaforme come GitHub, Reddit e molti altri. Markdown consente di aggiungere formattazione come titoli, elenchi, link e immagini utilizzando una sintassi semplice e intuitiva.
-
-Branch: un "branch" è essenzialmente una linea di sviluppo indipendente. Puoi immaginare un branch come una serie di commit (o "istantanee" del tuo progetto) che si sviluppa in parallelo rispetto ad altri branch. Ogni repository Git inizia con un branch principale predefinito chiamato di solito "master" (sebbene possa anche essere chiamato "main" o in altri modi, a seconda della configurazione).
