@@ -1,3 +1,4 @@
+# Tag
 < !DOCTYPE html>: Questa dichiarazione definisce che il documento è HTML5.
 < html>: L'elemento radice di una pagina HTML.
 < head>: Contiene metadati (dati sul dati) che non vengono visualizzati direttamente sulla pagina web. Ciò include il titolo della pagina, i collegamenti a fogli di stile, script, ecc.
